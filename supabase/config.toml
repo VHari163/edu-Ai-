@@ -1,0 +1,4 @@
+project_id = "bfnfcdvmhfpndzlpzrsc"
+
+[functions.socratic-dialogue]
+verify_jwt = true
